@@ -1,0 +1,36 @@
+
+body {
+    width: 500px;
+    margin: auto !important;
+    text-align: center;
+    background-color: #222;
+}
+
+.button{
+    width: 200px;
+    height: 200px;
+    border-radius: 20%;
+    border: solid 5px black;
+    margin: 10px auto 10px;
+}
+h2{
+    font-family: 'Rangers';
+    font-size: 12px;
+    color: #A5D7E8;
+}
+p{
+    font-family: 'Rangers';
+    color: #A5D7E8;
+}
+#red{
+    background-color: red;
+}
+#blue{
+    background-color: blue;
+}
+#green{
+    background-color: green;
+}
+#yellow{
+    background-color: yellow;
+}
